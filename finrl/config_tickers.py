@@ -37,9 +37,17 @@ NIFTY_MID_SELECT = [
 ]
 
 NIFTY_CPSE = [
-    "BEL.NS", "COALINDIA.NS", "COCHINSHIP.NS", "NBCC.NS", 
-    "NHPC.NS", "NLCINDIA.NS", "NTPC.NS", "ONGC.NS", 
-    "OIL.NS", "POWERGRID.NS", "SJVN.NS"
+    "BEL.NS", 
+    "COALINDIA.NS", 
+    "COCHINSHIP.NS", 
+    "NBCC.NS", 
+    "NHPC.NS", 
+    "NLCINDIA.NS", 
+    "NTPC.NS", 
+    "ONGC.NS", 
+    "OIL.NS", 
+    "POWERGRID.NS", 
+    "SJVN.NS"
 ]
 
 NIFTY_INFRA = [
